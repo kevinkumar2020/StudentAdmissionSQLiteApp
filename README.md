@@ -1,5 +1,26 @@
 # StudentAdmissionSQLiteApp
 
+### Functionality:
+
+* Admin Login / Logout (with UserDefaults)
+ 
+* Student Login / Logout (with UserDefaults)
+
+* Admin can:
+    * Login 
+    * Add new student (giving a unique spid)
+    * Fetch all students data
+    * Fetch students data from a particular class
+    * Modify existing student details
+    * Remove a student
+    * Update NoticeBoard
+                    
+* Students can:   
+    * Login ( default id password will be his/her spid )
+    * View his/her details
+    * Change password
+    * Read NoticeBoard
+
 ### Application View
 
 ![5gnv6l](https://user-images.githubusercontent.com/66861727/125948049-fe1b8517-dc9e-4de1-81a5-4eb897a947ea.gif)
