@@ -21,7 +21,7 @@
     * Change password
     * Read NoticeBoard
 
-### Application View
+### Application View:
 
 ![5gnv6l](https://user-images.githubusercontent.com/66861727/125948049-fe1b8517-dc9e-4de1-81a5-4eb897a947ea.gif)
 
