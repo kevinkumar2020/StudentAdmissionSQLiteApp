@@ -1,5 +1,17 @@
 # StudentAdmissionSQLiteApp
 
+### This is the simple Students Addmission System Using SQLite:
+
+### UIElements Used:
+
+* UILabel
+* UIButton
+* UIImageView
+* UITextField
+* UITextView
+* UITableView
+* UIAlertController
+
 ### Functionality:
 
 * Admin Login / Logout (with UserDefaults)
